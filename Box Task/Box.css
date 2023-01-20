@@ -1,0 +1,15 @@
+*{
+    background-image:url("Background.jpg") ;
+}
+.Quote
+{
+    Color:White;
+    text-align: center;
+    font-size: 150px;
+    width:650px;
+    height:650px;
+    padding:300px 300px;
+    margin: 30px;
+    border:30px solid rgb(0, 254, 47);
+
+}
