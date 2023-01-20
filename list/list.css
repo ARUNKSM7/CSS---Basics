@@ -1,0 +1,16 @@
+.one{
+    color: red;
+    list-style-image:url("1.png");
+    list-style-position:inside;
+}
+.Two{
+    color: green;
+    list-style-type:upper-alpha;
+    list-style-position:inside;
+
+}
+.Three{
+    color:blue;
+    list-style-type: disc;
+
+}
